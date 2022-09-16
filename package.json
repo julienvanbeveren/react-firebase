@@ -1,0 +1,27 @@
+{
+  "name": "react-firebase",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienvanbeveren/react-firebase.git"
+  },
+  "keywords": [
+    "react",
+    "firebase",
+    "firestore"
+  ],
+  "author": "Julien Van Beveren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienvanbeveren/react-firebase/issues"
+  },
+  "homepage": "https://github.com/julienvanbeveren/react-firebase#readme",
+  "devDependencies": {
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
