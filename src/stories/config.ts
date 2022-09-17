@@ -13,7 +13,7 @@ export const config: FirestoreConfig = {
   paths: [
     {
       name: ["Blog Posts", "Blog Post"],
-      collectionPath: "/blogposts"
+      collectionPath: "/blogposts",
     } 
   ]
 }

@@ -15,5 +15,6 @@ export interface FirebaseConfig {
 
 interface FirestorePath {
   name: [string, string],
-  collectionPath: string
+  collectionPath: string,
+  type?: () => {}
 }
